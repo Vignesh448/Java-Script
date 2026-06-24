@@ -2,6 +2,7 @@
 
 let customerName = "Vignesh";
 
+
 const shopName = "Stackly Mart";
 
 let products = ["Laptop", "Mouse", "Keyboard"];

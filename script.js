@@ -4,6 +4,7 @@ let EmployeeAge = 26;
 const CompanyName = "Stackly";
 
 console.log("Employee Name :", EmployeeName);
+
 console.log( "Employee Age:", EmployeeAge);
 console.log("Company Name:", CompanyName);
 

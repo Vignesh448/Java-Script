@@ -1,6 +1,7 @@
 //Task 1: Employee Registration
 
 let employeeName = "Vignesh";
+
 let employeeID = "STK-26-2401";
 const department = "Full Stack Developer";
 const salary = 50000;
